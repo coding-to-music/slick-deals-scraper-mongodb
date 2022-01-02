@@ -1,6 +1,8 @@
 # Slick Deals Scraper (Express, Node, Handlebars, MongoDB)
 Demo: https://limitless-bayou-66969.herokuapp.com/
 
+https://github.com/vpvnguyen/slick-deals-scraper-mongodb
+
 # Application
 - Search for deals by typing in an item. Save your favorite deals for later!
 - This deals scraper uses `npm cheerio` and `npm axios` to webscrape for deals. Information is saved in MongoDB using `npm mongoose` and the concept of an ODM.
